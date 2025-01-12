@@ -1,9 +1,6 @@
 # Lawrence's Portfolio (WIP)
 This is the source for https://github.com/lawrencesxp/lawrencesxp.github.io
 
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
 ## Education
 - M.Sc Electrical and Computer Engineering, Northeastern University (_Expected 2026_)
 
