@@ -1,2 +1,14 @@
-# Lawrence's Portfolio
-Welcome to my GitHub Pages repository! This is the source for https://github.com/lawrencesxp/lawrencesxp.github.io
+# Lawrence's Portfolio (WIP)
+This is the source for https://github.com/lawrencesxp/lawrencesxp.github.io
+
+
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
+## Education
+- M.Sc Electrical and Computer Engineering, Northeastern University (_Expected 2026_)
+
+## Experience
+**Research Assistant @ Kyoto University (August 2023 - Present_)**
+
+
+## Projects
