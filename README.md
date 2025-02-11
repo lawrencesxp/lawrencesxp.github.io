@@ -10,7 +10,12 @@ Funding: ¥300,000
 Created an LLM agent (using Open AI API calls) connected to Unreal Engine to make Human-centric interactions with users. Fine-tuned parameters to make a unique and memory efficient bot that uses NVIDIA's Audio2Face to animate facial characteristics so it seems like a real Human converstation.
 
 ### I am currently a Master's student at Northeastern University majoring in Computer Engineering. 
+Coursework: 
+EECE 7204 Applied Probability and Stochastic Process
+EECE 7205 Fundamentals of Computer Engineering
+EECE 7352 Computer Architecture
+EECE 7397 Advamced Machine Learning
 
-### You can contact me at lawrencesxp[at]gmail.com. 
+### I'm actively taking up new project works and looking to gain research experience. You can contact me at lawrencesxp[at]gmail.com. 
 
 This is the source for https://github.com/lawrencesxp/lawrencesxp.github.io
