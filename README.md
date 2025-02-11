@@ -12,8 +12,11 @@ Created an LLM agent (using Open AI API calls) connected to Unreal Engine to mak
 ### I am currently a Master's student at Northeastern University majoring in Computer Engineering. 
 Coursework: 
 EECE 7204 Applied Probability and Stochastic Process
+
 EECE 7205 Fundamentals of Computer Engineering
+
 EECE 7352 Computer Architecture
+
 EECE 7397 Advamced Machine Learning
 
 ### I'm actively taking up new project works and looking to gain research experience. You can contact me at lawrencesxp[at]gmail.com. 
