@@ -11,6 +11,6 @@ Created an LLM agent (using Open AI API calls) connected to Unreal Engine to mak
 
 ### I am currently a Master's student at Northeastern University majoring in Computer Engineering. 
 
-### You can contact me at lawrencesxp@gmail.com. 
+### You can contact me at lawrencesxp[at]gmail.com. 
 
 This is the source for https://github.com/lawrencesxp/lawrencesxp.github.io
