@@ -7,7 +7,9 @@ Coursework:
 * EECE 7352 Computer Architecture
 * EECE 7397 Advamced Machine Learning
 
-### I'm actively taking up new project works and looking to gain research experience. You can contact me at lawrencesxp[at]gmail.com. 
+### What I'm currently working on:
+Making a data scraper that can scrape any data online (pdf, csv, table format, etc) and be presented online at the users request. Here's a link to how it looks like right now: https://lawrencesxp.github.io/scrape_board/
+
 
 ## Research Assistant @Kyoto University
 I used pandas to web-scraped demographics data from census databases with which I analyzed socio-economic status and it's correlation to energy usage for agricultural labourers.
