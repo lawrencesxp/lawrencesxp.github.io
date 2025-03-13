@@ -15,7 +15,7 @@ Coursework:
 
 * EECE 7397 Advamced Machine Learning
 
- ## Research Assistant @Kyoto University
+### Research Assistant @Kyoto University
 
 I used pandas to web-scraped demographics data from census databases with which I analyzed socio-economic status and it's correlation to energy usage for agricultural labourers.
 
