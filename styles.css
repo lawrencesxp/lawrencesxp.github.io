@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;
+    margin: 40px;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+
+h1 {
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.text {
+    flex: 2;
+    padding-right: 20px;
+}
+
+.image img {
+    width: 200px;
+    border-radius: 5px;
+}
